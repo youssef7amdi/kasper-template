@@ -1102,6 +1102,12 @@ ul.features {
   }
 }
 @media (max-width: 416px) {
+  .pricing-back .mail form label {
+  padding-right: 10px;
+  }
+  .pricing-back .mail form .email {
+    padding: 10px 10px 10px 0;
+  }
   .pricing-back .mail .submit {
     padding: 0 10px;
   }
