@@ -166,7 +166,7 @@ body {
   position: relative;
   padding: 0;
   min-height: 100vh;
-  background-image: url(/images/the-promise_1920x1200.jpg);
+  background-image: url(../images/the-promise_1920x1200.jpg);
   background-size: cover;
   display: flex;
   flex-direction: column;
