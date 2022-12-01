@@ -1107,6 +1107,7 @@ ul.features {
   }
   .pricing-back .mail form .email {
     padding: 10px 10px 10px 0;
+    width: 100%;
   }
   .pricing-back .mail .submit {
     padding: 0 10px;
