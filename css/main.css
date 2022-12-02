@@ -1192,7 +1192,7 @@ margin-top: 10px;
   margin-top: 50px;
 }
 @media (max-width: 767px) {
-  .contact-us .form {
+  .contact .form {
     flex-basis: 100%;
     margin: 20px;
   }
