@@ -1020,7 +1020,7 @@ ul.features {
 .pricing .pricing-contact {
   text-align: center;
 }
-.contact p {
+.pricing-contact p {
   font-size: 20px;
 }
 .contact-us button{
@@ -1115,15 +1115,15 @@ ul.features {
 }
 /* End Pricing */
 /* Start Contact */
-.contact-us {
+.contact {
   padding-top: var(--main-pixels);
   padding-bottom: var(--main-pixels);
 }
-.contact-us .container {
+.contact .container {
   display: flex;
   flex-wrap: wrap;
 }
-.contact-us .form {
+.contact .form {
   flex-basis: 70%;
   margin-right: 30px;
 }
